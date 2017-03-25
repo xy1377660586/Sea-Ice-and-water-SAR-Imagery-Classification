@@ -1,0 +1,5 @@
+http://blog.csdn.net/u010193446/article/details/53406754
+图像数据转换为caffe需要的db文件
+
+http://blog.csdn.net/u010193446/article/details/53420686?ref=myread
+计算图像数据集的均值
