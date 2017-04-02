@@ -4,6 +4,8 @@ http://blog.csdn.net/u010193446/article/details/53406754
 http://blog.csdn.net/u010193446/article/details/53420686?ref=myread
 计算图像数据集的均值
 
+http://blog.csdn.net/u013087984/article/details/52023923
+AlexNet 网络结构的计算
 
 http://blog.csdn.net/thystar/article/details/50041417资料
 
