@@ -1,3 +1,6 @@
+http://blog.csdn.net/greenapple_shan/article/details/50856555
+数据路径和标签
+
 http://blog.csdn.net/u010193446/article/details/53406754
 图像数据转换为caffe需要的db文件
 
