@@ -13,3 +13,6 @@ AlexNet 网络结构的计算
 http://blog.csdn.net/thystar/article/details/50041417资料
 
 http://blog.csdn.net/seven_first/article/details/47378697caffe的源码
+
+finetuning example:
+http://bealin.github.io/2016/10/23/Caffe%E5%AD%A6%E4%B9%A0%E7%B3%BB%E5%88%97%E2%80%94%E2%80%943Fine-tuning%E5%BE%AE%E8%B0%83%E7%BD%91%E7%BB%9C/
