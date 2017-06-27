@@ -20,3 +20,6 @@ http://bealin.github.io/2016/10/23/Caffe%E5%AD%A6%E4%B9%A0%E7%B3%BB%E5%88%97%E2%
 feature visualization:
 http://www.ctolib.com/topics-106833.html
 
+http://lijiancheng0614.github.io/2015/08/21/2015_08_21_CAFFE_Features/
+
+https://github.com/yosinski/deep-visualization-toolbox
